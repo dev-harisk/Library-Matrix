@@ -27,7 +27,7 @@ To set up the LibraryMatrix database, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/librarymatrix.git
+   git clone https://github.com/dev-harisk/librarymatrix.git
    
 2. **Open your SQL Client (e.g., MySQL Workbench, phpMyAdmin).**
 3. **Run the SQL Scripts:**
@@ -44,7 +44,6 @@ After setting up the database, you can use it to manage library operations. The 
 - To view transaction details:
 	```bash
 	SELECT * FROM transaction_details;
-	
 
 
 
